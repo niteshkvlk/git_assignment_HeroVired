@@ -1,9 +1,9 @@
-Github link : niteshkvlk/git_assignment_HeroVired
+Github link : https://github.com/niteshkvlk/git_assignment_HeroVired.git
 
 Q1: CalculatorPlus (Complete Git Workflow)
 Step 1: Initialize Repository
 git init
-git remote add origin https://github.com/YOUR_USERNAME/git_assignment_HeroVired.git
+git remote add origin https://github.com/niteshkvlk/git_assignment_HeroVired.git
 git branch -M main
 git push -u origin main
 ________________________________________
