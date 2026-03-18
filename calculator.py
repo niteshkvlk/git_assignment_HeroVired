@@ -12,7 +12,7 @@ class Calculator:
 
     def divide(self, a, b):
         if b == 0:
-            raise ValueError("Cannot divide by zero.")
+            raise ValueError("Can't divide by zero.")
         return a / b
 
     # Square root function implemented
